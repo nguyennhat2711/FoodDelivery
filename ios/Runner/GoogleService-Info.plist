@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201013924709-gulfcff9s16dff1vi0patbr78rv71nqj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201013924709-gulfcff9s16dff1vi0patbr78rv71nqj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>201013924709-0063h94f75n3hr65jmnag74v8s9fdvk1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhBKJ7uqLO1DauhqmYGoVfHkilnFgYWfE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201013924709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.afandim.app</string>
+	<key>PROJECT_ID</key>
+	<string>travelapp-2ba77</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelapp-2ba77.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201013924709:ios:b7c80b93787bb70967478c</string>
+</dict>
+</plist>

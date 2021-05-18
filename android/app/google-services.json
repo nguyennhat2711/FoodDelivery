@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "201013924709",
+    "project_id": "travelapp-2ba77",
+    "storage_bucket": "travelapp-2ba77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:189faf692723449c67478c",
+        "android_client_info": {
+          "package_name": "biz.efendim.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:dea761a21f3c8aa667478c",
+        "android_client_info": {
+          "package_name": "biz.efendim.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:c31be6e537041d7167478c",
+        "android_client_info": {
+          "package_name": "biz.efendim.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:7be06327f7cff13767478c",
+        "android_client_info": {
+          "package_name": "com.admin.afandim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:eca805f36509d39e67478c",
+        "android_client_info": {
+          "package_name": "net.afandim.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:011592892e93718967478c",
+        "android_client_info": {
+          "package_name": "net.afandim.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:095953abe4ae4a0467478c",
+        "android_client_info": {
+          "package_name": "net.afandim.peoviderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-nuu2bufteemv76qr2caf6nr3gumooa4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.efendim.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
