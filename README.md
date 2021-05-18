@@ -1,6 +1,6 @@
 # afandim
 
-This is a food delivery application. <a href=""> Demo App </a>
+This is a food delivery application. <a href="/android/app/release/app-release.apk"> Demo App </a>
 
 ## Screens
 <img src="/screens/android_10.jpg" width="20%"/>  <img src="/screens/android_11.jpg" width="20%"/>  <img src="/screens/android_12.jpg" width="20%"/><br>
